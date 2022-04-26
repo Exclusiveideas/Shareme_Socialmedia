@@ -2,9 +2,8 @@
 ![shareme4](https://user-images.githubusercontent.com/76836006/165216761-b86c0daf-a800-4e42-aefb-60c4971e69cb.PNG)
 
 ## Introduction
-Using React, Tailwind & Sanity, I built a Full Stack Social Media Application. This social media app allows users to post pictures under various specified categories as 
-well as interact with other's pictures, comment on pictures, save pictures to user's wall. The primary authentication used is Google authenthentication.
-
+Using React, Tailwind & Sanity, I built a Full Stack Social Media Application. This social media app authenticates users and allows them to post pictures under various specified categories as 
+well as interact with other's pictures, comment on pictures, save pictures to user's wall.
 ## Setup
 run ```npm i && npm start``` to start the app
 
