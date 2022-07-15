@@ -2,15 +2,16 @@
 ![shareme4](https://user-images.githubusercontent.com/76836006/165216761-b86c0daf-a800-4e42-aefb-60c4971e69cb.PNG)
 
 ## Introduction
-This social media web application lies its core interaction with picture upload and interaction. 
-It includes:
-User authentication and social login
-Pictures categories
-Account creation
-Comments section
-Profile page 
-Similar pictures features
-Posts search
+This social media web application lies its core interaction with picture upload and interaction. <br/>
+
+It includes:<br/>
+User authentication and social login <br/>
+Pictures categories<br/>
+Account creation<br/>
+Comments section<br/>
+Profile page <br/>
+Similar pictures features<br/>
+Posts search<br/>
 Responsive design
 
 ### Technologies used
