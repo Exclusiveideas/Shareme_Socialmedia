@@ -14,15 +14,17 @@ Similar pictures features<br/>
 Posts search<br/>
 Responsive design
 
-### Technologies used
-* React <br />
-* Tailwind CSS <br />
-* Sanity (CMS)
+### Tech Stack
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
+[![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Exclusiveideas)
 
-## Setup
-Clone this repository and run ```npm i && npm start``` to start the app
+**Front-END: React, Tailwind CSS**<br />
+**CMS: Sanity** <br />
+
+## Installation Guide
+Move to the respective repository for the installation guide
 
 ## Live Version
-Visit site-url: https://silly-goldwasser-fdb2eb.netlify.app to view the live version of this application
+Visit [HERE](https://silly-goldwasser-fdb2eb.netlify.app) to view the live version of this application
 
 Don't forget to star this repository✨✨.
