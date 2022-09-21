@@ -21,10 +21,34 @@ Responsive design
 **Front-END: React, Tailwind CSS**<br />
 **CMS: Sanity** <br />
 
-## Installation Guide
-Move to the respective repository for the installation guide
-
 ## Live Version
 Visit [HERE](https://silly-goldwasser-fdb2eb.netlify.app) to view the live version of this application
+
+## Installation Steps 
+
+**1. First clone the project by running** <br />
+   ``` git clone https://github.com/<your-username>/Shareme_Socialmedia.git ```
+<br />
+
+### Frontend
+**2. Go into the project's frontend directory**  <br />
+   ``` cd Shareme_Socialmedia/shareme_frontend ``` 
+   <br />
+   
+**3. Install all the dependencies** <br />
+    ``` npm i ``` 
+    <br />
+    
+**4. Start the application development server **<br />
+    ``` npm start ```
+<br />
+
+### Backend
+**4. 
+
+
+
+#### Don't forget to star this repository✨✨.
+
 
 Don't forget to star this repository✨✨.
