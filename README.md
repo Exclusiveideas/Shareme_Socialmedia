@@ -19,12 +19,12 @@ Responsive design
 [![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Exclusiveideas)
 
 **Front-END: React, Tailwind CSS**<br />
-**CMS: Sanity** <br />
+**CMS: Sanity-io** <br />
 
 ## Live Version
 Visit [HERE](https://silly-goldwasser-fdb2eb.netlify.app) to view the live version of this application
 
-## Installation Steps 
+<!--  ## Installation Steps 
 
 **1. First clone the project by running** <br />
    ``` git clone https://github.com/<your-username>/Shareme_Socialmedia.git ```
@@ -45,10 +45,6 @@ Visit [HERE](https://silly-goldwasser-fdb2eb.netlify.app) to view the live versi
 
 ### Backend
 **4. 
+-->
 
-
-
-#### Don't forget to star this repository✨✨.
-
-
-Don't forget to star this repository✨✨.
+#### Don't forget to star this repository✨✨
